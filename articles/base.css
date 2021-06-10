@@ -41,6 +41,9 @@ footer {
 *:first-child{margin-top:0}
 *:last-child{margin-bottom:0}
 
+a:link{color:#26E}
+a:visited{color:#A28}
+
 code{
    background:#EEE;
    padding:.25em .125em .125em;
